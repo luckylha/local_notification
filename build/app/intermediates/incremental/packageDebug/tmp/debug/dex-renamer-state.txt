@@ -1,0 +1,4 @@
+#Thu Jan 23 09:53:09 WIB 2020
+base.0=/Users/lucky/Documents/flutter_projects/local_notif/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

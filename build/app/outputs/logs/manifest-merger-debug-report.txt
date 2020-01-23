@@ -1,0 +1,104 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [:flutter_local_notifications] /Users/lucky/Documents/flutter_projects/local_notif/build/flutter_local_notifications/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.0.1] /Users/lucky/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/5a8a87ec8f6941f97df1dfc2737c1806/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/lucky/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/eed8d6e5d7b9dd7da2c7d2b221f48646/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/lucky/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/eaf5bab1e5d65e689af9cdfd04d443cb/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/debug/AndroidManifest.xml:1:1-9:12
+INJECTED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/debug/AndroidManifest.xml:1:1-9:12
+INJECTED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/debug/AndroidManifest.xml:1:1-9:12
+	package
+		ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:2:5-38
+		INJECTED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:9:5-32:19
+MERGED from [androidx.core:core:1.0.1] /Users/lucky/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/5a8a87ec8f6941f97df1dfc2737c1806/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/lucky/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/5a8a87ec8f6941f97df1dfc2737c1806/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/lucky/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/eed8d6e5d7b9dd7da2c7d2b221f48646/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/lucky/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/eed8d6e5d7b9dd7da2c7d2b221f48646/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/lucky/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/5a8a87ec8f6941f97df1dfc2737c1806/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:11:9-36
+	android:icon
+		ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:10:9-57
+activity#com.example.local_notif.MainActivity
+ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:13:9-31:20
+	android:launchMode
+		ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:17:13-144
+	android:theme
+		ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:14:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:24:13-26:40
+	android:value
+		ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:26:17-37
+	android:name
+		ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:25:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml
+MERGED from [:flutter_local_notifications] /Users/lucky/Documents/flutter_projects/local_notif/build/flutter_local_notifications/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] /Users/lucky/Documents/flutter_projects/local_notif/build/flutter_local_notifications/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/lucky/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/5a8a87ec8f6941f97df1dfc2737c1806/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/lucky/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/5a8a87ec8f6941f97df1dfc2737c1806/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/lucky/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/eed8d6e5d7b9dd7da2c7d2b221f48646/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/lucky/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/eed8d6e5d7b9dd7da2c7d2b221f48646/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/lucky/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/eaf5bab1e5d65e689af9cdfd04d443cb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/lucky/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/eaf5bab1e5d65e689af9cdfd04d443cb/AndroidManifest.xml:20:5-44
+INJECTED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/debug/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/debug/AndroidManifest.xml:7:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/debug/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/lucky/Documents/flutter_projects/local_notif/android/app/src/debug/AndroidManifest.xml:8:22-78
